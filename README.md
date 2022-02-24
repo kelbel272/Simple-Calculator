@@ -1,2 +1,2 @@
 # Simple-Calculator
-Created a Simple GUI Calculator GUI Python Tkinter
+Created a Simple Python GUI Calculator using Tkinter
